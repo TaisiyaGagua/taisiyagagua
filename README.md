@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Makima](https://i.imgur.com/zfalih8.jpeg)
+![Makima](https://i.imgur.com/zfalih8.jpeg =250x)
 _Pretty enough for OnlyFans, but too smart, that's why I'm here🤭_
