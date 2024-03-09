@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Hi there](https://imgur.com/a/3cKJtSv)
+![Hi there](https://ibb.co/bPzDK15)
 
 <!--
 **TaisiyaGagua/taisiyagagua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
