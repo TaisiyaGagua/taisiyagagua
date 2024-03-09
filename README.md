@@ -1,7 +1,7 @@
 
 ![Hi! My name is Taya and i'm MERN developer](https://i.imgur.com/eZjJQCx.png)
 
-*Pretty enough for  ![OnlyFans](https://logowik.com/content/uploads/images/onlyfans-of-icon3771.logowik.com.webp) but too smart, that's why I'm here🤭*
+*Pretty enough for  ![OnlyFans](https://logowik.com/content/uploads/images/onlyfans-of-icon3771.logowik.com.webp=50x) but too smart, that's why I'm here🤭*
 
 <!--
 **TaisiyaGagua/taisiyagagua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
