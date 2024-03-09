@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+____________
 **✨ My DreamTeam:**
+
 ![technologies ](https://skillicons.dev/icons?i=js,html,css,mongo,bootstrap,express,figma,git,nodejs,postman,react,sass,ts,vscode,flutter&perline=3)
 
 
