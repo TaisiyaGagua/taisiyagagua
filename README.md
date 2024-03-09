@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Makima](https://i.imgur.com/HgAAigB.jpeg =250x)
+
 
 _Pretty enough for OnlyFans, but too smart, that's why I'm here🤭_
