@@ -6,13 +6,13 @@
 #### And, of course, a devoted anime enthusiast 🩵
 
 ____________
-<div align="center">
+<details>
+  <summary>Click to reveal My DreamTeam</summary>
 
-**✨ My DreamTeam:**
+  **✨ My DreamTeam:**
 
-![technologies](https://skillicons.dev/icons?i=js,html,css,mongo,bootstrap,express,figma,git,nodejs,postman,react,sass,ts,vscode,flutter&perline=3)
-
-</div>
+  ![technologies](https://skillicons.dev/icons?i=js,html,css,mongo,bootstrap,express,figma,git,nodejs,postman,react,sass,ts,vscode,flutter&perline=3)
+</details>
 
 
 _Pretty enough for OnlyFans, but too smart, that's why I'm here🤭_
