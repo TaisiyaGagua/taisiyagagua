@@ -1,7 +1,8 @@
 ### Hello! My name is... Taya
-##And I am MERN-developer
+## And I am MERN-developer
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mongo)](https://skillicons.dev)
+![Описание изображения](https://i.imgur.com/eZjJQCx.png)
 
 
 <!--
