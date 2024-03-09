@@ -10,7 +10,7 @@ ____________
 
 **✨ My DreamTeam:**
 
-![technologies](https://skillicons.dev/icons?i=js,html,css,mongo,bootstrap,express,figma,git,nodejs,postman,react,sass,ts,vscode,flutter&perline=3)
+![technologies](https://skillicons.dev/icons?i=js,html,css,mongo,bootstrap,express,figma,github,nodejs,postman,react,sass,ts,vscode,redux&perline=3)
 
 
 
