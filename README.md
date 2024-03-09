@@ -1,6 +1,6 @@
 ### Hi there 👋
-![Hi there](https://ibb.co/bPzDK15)
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/3cKJtSv" data-context="false" ><a href="//imgur.com/a/3cKJtSv"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongo)](https://skillicons.dev)
 
 <!--
 **TaisiyaGagua/taisiyagagua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
