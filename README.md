@@ -4,6 +4,7 @@
 ### Passionate frontend developer with big ambitions 🚀
 ### Head over heels for design, specializing in crafting seamless user interfaces 🪁
 #### And, of course, a devoted anime enthusiast 🩵
+
 <!--
 **TaisiyaGagua/taisiyagagua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,6 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**✨ My DreamTeam:**
+![technologies ](https://skillicons.dev/icons?i=js,html,css,mongo,bootstrap,express,figma,git,nodejs,postman,react,sass,ts,vscode,flutter&perline=3)
 
 
 _Pretty enough for OnlyFans, but too smart, that's why I'm here🤭_
