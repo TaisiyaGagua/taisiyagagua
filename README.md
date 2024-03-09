@@ -17,7 +17,7 @@ ____________
 <details>
   <summary> 🔥 </summary>
   
-  _Pretty enough for OnlyFans, but too smart, that's why I'm here🤭_
+  _Pretty enough for OnlyFans, but too smart, that's why I'm here_ 🤭
 
 </details>
 
