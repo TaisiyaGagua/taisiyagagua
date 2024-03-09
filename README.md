@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hello  👋
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mongo)](https://skillicons.dev)
+
+(https://images.app.goo.gl/FxzmiUVJ9kCAGAoG6)
 
 <!--
 **TaisiyaGagua/taisiyagagua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
