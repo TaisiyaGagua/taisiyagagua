@@ -1,6 +1,6 @@
 ![Hi! My name is Taya and i'm MERN developer](https://i.imgur.com/eZjJQCx.png)
 
-# My name is Taya 
+
 ### Passionate frontend developer with big ambitions 🚀
 ### Head over heels for design, specializing in crafting seamless user interfaces 🪁
 #### And, of course, a devoted anime enthusiast 🩵
